@@ -1,5 +1,5 @@
 # Traffic Sign Recognition with TensorFlow
-
+`pip install -r requirements.txt`
 ## Background
 
 As research continues in the development of self-driving cars, one of the key challenges is computer vision, allowing these cars to develop an understanding of their environment from digital images. In particular, this involves the ability to recognize and distinguish road signs – stop signs, speed limit signs, yield signs, and more.
@@ -8,7 +8,7 @@ In this project, we used TensorFlow to build a neural network to classify road s
 
 ## Understanding
 
-We have a dataset with labeled road sign images, and we need to implement the following functions in traffic.py.
+We have a dataset with labeled road sign images, and have implement the following functions in traffic.py.
 
 ### `load_data(data_dir)`
 
